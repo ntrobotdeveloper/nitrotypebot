@@ -1,14 +1,4 @@
-# nitrotypebot
-
-requirements:
-```
-python 3.5+
-
-pip install pyautogui
-pip install keyboard
-pip install selenium
-pip install bs4
-```
+# Nitro Type Bot
 
 ## WARNING:
 
@@ -26,7 +16,7 @@ as you want, as there is no anti-cheat for the guest versions.
 ![6,000 wpm](assets/nitrotype1.png)
 
 
-Contact ZachD#0132 for questions comments, concerns, feature ideas, or bugs.
+Contact some guy#3637 for questions comments, concerns, feature ideas, or bugs.
 
 --CHANGE LOG--
 ```
